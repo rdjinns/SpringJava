@@ -17,7 +17,7 @@ public class BaseballCoach implements CoachInterface {
 	@Override
 	public String getDailyFortune() {
 
-		return "CHIEN"+fortuneservice.getFortune();
+		return "CHIEN DE LA CASSE"+fortuneservice.getFortune();
 	}
 	
 	
